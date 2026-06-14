@@ -41,7 +41,3 @@ A console-based Snake Game developed using C++ and Windows API.
 ## Author
 
 Akash S
-ECE Undergraduate
-Machine Learning Enthusiast
-# cpp-snake-game
-Console-based Snake Game built using C++ and Windows API.
